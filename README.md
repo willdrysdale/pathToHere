@@ -17,9 +17,9 @@ devtools::install_github("willdrysdale/pathToHere")
 
 ## Example
 
-Once pathToHere is installed, it can be bound to a keyboard shortcut by following the instructions [here](https://rstudio.github.io/rstudioaddins/#keyboard-shorcuts).
+Once pathToHere is installed, it can be bound to a keyboard shortcut by following the instructions [here](https://rstudio.github.io/rstudioaddins/#keyboard-shorcuts). (I like `ctrl + shift + H)
 
-Then, highlighting the following code with convert it into a call to `here::here()`
+Then, highlighting the following code and pressing the shortcut will convert it into a call to `here::here()`
 
 This:
 ``` r
