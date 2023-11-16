@@ -3,8 +3,7 @@ Title: Convert File Path to here::here()
 Version: 0.0.0.9000
 Authors@R: 
     person("Will", "Drysdale", , "will.drysdale@york.ac.uk", role = c("aut", "cre"))
-Description: Its hard to use RStudios file path autocomplete with the here package.
-             This package provides an addin that takes a file path string and 
+Description: Provides a RStudio addin that takes a file path string and 
              replaces it with a call to here(). 
 License: GPL (>= 3)
 Encoding: UTF-8
